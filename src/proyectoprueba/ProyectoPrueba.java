@@ -6,9 +6,9 @@
 package proyectoprueba;
 
 import javax.swing.JOptionPane;
-
+     
 /**
- *    
+ *    agregado
  * @author USRSIS0160
  */
 public class ProyectoPrueba {
